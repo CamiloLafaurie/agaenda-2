@@ -1,4 +1,4 @@
-# **agaenda**
+# **agenda**
 mis apuntes
 ## **apuntes de lo aprendido en clases**
 aprendimos utilizar el **visual basic excel** y sus comandos
