@@ -17,13 +17,13 @@ y para reemplazar ponemos >msgbox
 ## **diagrama de flujo**
 en el diagrama de flujo podrmos ordenar y organizar de como va a ser todo lo
 que vamos a ejecutar en el programa ejemplo de es:
-
+````
 >sub
 >nom = "luis"
 >num = 10
 >msgbox en cada una de ellas de los valores que se le dan a la variable para ejecutars
 >end sub
-
+````
 ### viernes 2 de septiembre
 
 
